@@ -14,4 +14,3 @@ https://chessboardjs.com/
 
 
 images // 사용할 이미지 폴더
-library // p5.js 폴더
